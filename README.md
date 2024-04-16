@@ -7,4 +7,4 @@
 
 (https://github.com/Rabusi/PATReId-Pose-Apprise-Transformer-Network-for-Vehicle-Re-Identification/blob/main/attention_map.pdf)
 
-!(https://github.com/Rabusi/PATReId-Pose-Apprise-Transformer-Network-for-Vehicle-Re-Identification/blob/main/model.svg)
+https://github.com/Rabusi/PATReId-Pose-Apprise-Transformer-Network-for-Vehicle-Re-Identification/blob/main/model.svg
